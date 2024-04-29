@@ -6,7 +6,11 @@
 .box{
   height:40px;
   width:40px;
-  background-color: aliceblue;border-radius: 25%;
+  background-color: aliceblue;
+  border-radius: 25%;
+  align-content: center;
+  border: 2px solid black;
+  padding: 5px;
 }
 .timer-display{
   display: flex;
